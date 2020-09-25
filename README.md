@@ -7,3 +7,7 @@ hello. i am a self taught java dev that develops minecraft mods for fun. if you 
 Momentum - A minecraft utility mod for anarchy servers. At the moment the source code is private (the client is public however), but that may change in the future :)
 
 To find out more, visit the discord server at https://discord.gg/4N9Pq3m
+
+### Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=linustouchtips&theme=cobalt" />
