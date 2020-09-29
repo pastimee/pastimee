@@ -11,4 +11,7 @@ To find out more, visit the discord server at https://discord.gg/4N9Pq3m
 ### Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=linustouchtips&theme=cobalt" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linustouchtips" />
+
+### Languages
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linustouchtips&theme=cobalt" />
