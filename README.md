@@ -6,6 +6,8 @@ hello. i am a self taught java dev that develops minecraft mods for fun. if you 
 
 Momentum - A minecraft utility mod for anarchy servers. At the moment the source code is private (the client is public however), but that may change in the future :)
 
+Revenant - A minecraft utility mod for anatchy servers. The client is private, more info can be found here: https://discord.gg/kMfTbJt
+
 To find out more, visit the discord server at https://discord.gg/4N9Pq3m
 
 ### Stats
