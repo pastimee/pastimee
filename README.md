@@ -8,7 +8,7 @@ Momentum - A minecraft utility mod for anarchy servers. At the moment the client
 
 Velocity - A paid minecraft utility mod for anarchy servers. The client is paid and public, more info can be found here: https://discord.gg/4N9Pq3m
 
-Various AI projects in python - Some projects that recquire basic machine learning and artificial intelligence, done completley in python.
+Various AI projects in python - Some projects that recquire basic machine learning and artificial intelligence, done completely in python.
 
 ### Stats
 
