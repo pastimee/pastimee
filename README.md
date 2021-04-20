@@ -1,3 +1,7 @@
 ### About
 
-hello. i am a self taught java, dart, and python dev. i develop apps and minecraft mods for fun. if you need to contact me do so on discord at linus touch tips#0001.
+- Java, Python, Dart Developer; mostly front end
+- Programming for about 3 years
+- Contact me on discord at: linus touch tips#0001
+
+<p> <img src="https://komarev.com/ghpvc/?username=linustouchtips&color=8E64D0" alt="linustouchtips" /> </p>
