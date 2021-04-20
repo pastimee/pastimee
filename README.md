@@ -4,4 +4,4 @@
 - Programming for about 3 years
 - Contact me on discord at: linus touch tips#0001
 
-<p> <img src="https://komarev.com/ghpvc/?username=linustouchtips&color=8E64D0" alt="linustouchtips" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=linustouchtips&color=8E64D0" alt="linustouchtips" /> </p> (started April 19th, 2021)
