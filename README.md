@@ -1,6 +1,6 @@
 ### About
 
-- Java, Python, Dart Developer; mostly front end
+- Java, Kotlin, Python, Dart Developer; mostly front end
 - Programming for about 3 years
 - Contact me on discord at: linus touch tips#7672
 
